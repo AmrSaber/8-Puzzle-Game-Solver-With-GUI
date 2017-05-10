@@ -13,7 +13,7 @@ The game can be solved and manipulated with the player and can be auto-solved an
 number of moves it requires and number of expanded nodes needed to solve the situation (See image below)
 ![status Image](http://i.imgur.com/sFg1m8e.png)
 * Solving speed can be adjusted with the last button (press to cycle through different speeds)
-* When the game is solved absolutly nothing happens, I am depending on the players to celebrate thierselves in the way they see fit :"D
+* When the game is solved absolutly nothing happens, I am depending on the players to celebrate themselves in the way they see fit :"D
 
 ## General Note
 * of course **A\*** is for the optimal solution with the least moves in the minimum time 
